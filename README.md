@@ -16,17 +16,17 @@ To use the three items, just right-click with the item in your hand. The invisib
 
 
 
-https://github.com/Boduru/Minecraft-Mod-New-Items/assets/31191605/200e1ab7-63e5-48e7-a3cd-cdfcbd58e50d
+
+https://github.com/Boduru/Minecraft-New-Items-Mod/assets/31191605/2b8d93c4-eef6-42c1-ba7b-fa8e3332b3e6
+
+
+
+https://github.com/Boduru/Minecraft-New-Items-Mod/assets/31191605/2991dcdd-432c-4243-a8a7-5014ef797abb
 
 
 
 
-https://github.com/Boduru/Minecraft-Mod-New-Items/assets/31191605/301720ad-5cff-4ab9-9b16-36fccea828fe
-
-
-
-
-https://github.com/Boduru/Minecraft-Mod-New-Items/assets/31191605/82902718-c57e-4897-a989-3aac5e35554f
+https://github.com/Boduru/Minecraft-New-Items-Mod/assets/31191605/81ea4fb1-b517-4887-b31e-18b8cc489eed
 
 
 
