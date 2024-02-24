@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"P": {
+			"item": "minecraft:ender_pearl"
+		},
+		"S": {
+			"item": "minecraft:stick"
+		}
+	},
+	"pattern": [
+		" P ",
+		" P ",
+		" S "
+	],
+	"result": {
+		"item": "disco:redstone_torch_jumper"
+	}
+}
